@@ -14,10 +14,12 @@ Artificial Intelligence
 Machine Learning
 Web Technologies
 Problem Solving
+
 📚 Currently Learning
 Data Structures and Algorithms
 Operating Systems
 Machine Learning
 Git & GitHub
+
 📫 Contact
 GitHub: @ilaydakuruu
