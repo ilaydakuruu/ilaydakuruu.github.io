@@ -2,6 +2,10 @@ title: İlayda Kuru
 description: My personal website
 theme: minima
 
+header_pages:
+  - about.md
+  - cache-memory.md
+
 minima:
   nav_pages:
     - about.md
