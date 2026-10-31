@@ -2,9 +2,8 @@
 ---
 layout: page
 title: Cache Memory
-permalink: /cache-memory/
+permalink: /cache-memory.html
 ---
-
 # Cache Memory
 
 ## 1. What is Cache Memory?
