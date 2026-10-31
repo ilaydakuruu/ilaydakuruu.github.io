@@ -1,4 +1,9 @@
-About Me
+---
+layout: page
+title: About Me
+permalink: /about.html
+---
+
 Hello! My name is Ilayda.
 
 I am a Computer Engineering student at Necmettin Erbakan University.
